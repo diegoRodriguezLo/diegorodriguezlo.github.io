@@ -37,7 +37,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Hermanos Rodríguez",
+    "name": "My Site",
     "versionFirst": "5.9.18",
     "siteFonts": [
       {
@@ -49,6 +49,8 @@
     "imageResize": true,
     "uniqCompNum": 3,
     "versionPublish": "5.9.18",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "usedWebp": false,
@@ -67,17 +69,14 @@
       "rejectText": "REJECT"
     },
     "sitemapSwitcher": false,
-    "siteUrl": false,
-    "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2024-07-31-211018-128x102_1.png",
-    "mbrsiteDomain": "kdykjle2s0",
-    "gdpr": false
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Hermanos Rodríguez",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
