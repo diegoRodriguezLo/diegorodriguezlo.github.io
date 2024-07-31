@@ -49,6 +49,8 @@
     "imageResize": true,
     "uniqCompNum": 3,
     "versionPublish": "5.9.18",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "usedWebp": false,
