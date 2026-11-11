@@ -24,17 +24,7 @@ ghrmadrid/
 
 ## Formulario de contacto (dinámico)
 
-El formulario usa el servicio gratuito **Formspree** (no necesita servidor propio):
-
-1. Regístrate en https://formspree.io y crea un "New form".
-2. Copia la URL del endpoint (ej. `https://formspree.io/f/xyzabc`).
-3. Edita `script.js` y sustituye:
-
-   ```js
-   const FORMSPREE_ACTION = 'https://formspree.io/f/TU_ID_DE_FORMSPREE';
-   ```
-
-   por tu URL real.
+El formulario usa el servicio gratuito **Formspree**
 
 Cuando el usuario pulse "Enviar mensaje", el correo llegará a tu bandeja de Formspree.
 
