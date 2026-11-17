@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://ghrmadrid.es/brand-facts.json",
+  "name": "Ficha de datos de la marca HORFAVEN 2008 SL",
+  "description": "Datos oficiales y verificados de HORFAVEN 2008 SL (nombre, contacto, servicios, zona y horario) publicados por la propia empresa.",
+  "url": "https://ghrmadrid.es/brand-facts.json",
+  "inLanguage": "es",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {"@id": "https://ghrmadrid.es/#organization"},
+  "dateModified": "2026-11-17",
+  "about": {
+    "@type": ["Organization", "LocalBusiness"],
+    "@id": "https://ghrmadrid.es/#organization",
+    "legalName": "HORFAVEN 2008 SL",
+    "name": "HORFAVEN 2008 SL",
+    "predecessor": "Hnos. Rodríguez Gutiérrez (activa desde los años 60)",
+    "foundingDate": "2008",
+    "yearsOfExperience": "Más de 60 años (incluida la trayectoria de la predecesora)",
+    "category": "Edificación, obra civil y estructuras de hormigón",
+    "description": "HORFAVEN 2008 SL es una empresa de edificación y obra civil fundada en 2008 en Madrid, sucesora de Hnos. Rodríguez Gutiérrez (activa desde los años 60), especializada en cimentaciones y estructuras de hormigón, obra civil y fabricación de hormigón certificado para particulares, promotoras y constructoras en la Comunidad de Madrid.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Polígono Sector 8, 31",
+      "postalCode": "28110",
+      "addressLocality": "Algete",
+      "addressRegion": "Madrid",
+      "addressCountry": "ES"
+    },
+    "telephone": "+34 916 292 334",
+    "email": "info@ghrmadrid.es",
+    "url": "https://ghrmadrid.es/",
+    "geo": {"@type": "GeoCoordinates", "latitude": 40.5961, "longitude": -3.4974},
+    "areaServed": "Comunidad de Madrid",
+    "openingHours": "Mo-Fr 07:00-19:00",
+    "customers": ["Particulares", "Promotoras", "Constructoras"],
+    "services": [
+      "Proyecto y construcción en general (edificación)",
+      "Obra civil, urbanización e infraestructuras especiales",
+      "Cimentaciones, solados y estructuras de hormigón",
+      "Fabricación y transporte de hormigón con certificado de calidad",
+      "Oficina técnica / gestión integrada de proyectos"
+    ],
+    "values": [
+      "Trabajo de calidad con máximo rigor y seriedad",
+      "Atención personalizada",
+      "Recursos propios (grupo humano y equipos técnicos)"
+    ],
+    "sameAs": [
+      "https://ghrmadrid.es/",
+      "https://www.google.com/maps/search/?api=1&query=Pol%C3%ADgono+Sector+8+31+28110+Algete+Madrid"
+    ]
+  },
+  "lastVerified": "2026-11-17"
+}

@@ -1,0 +1,33 @@
+# HORFAVEN 2008 SL
+
+> HORFAVEN 2008 SL es una empresa de edificación y obra civil fundada en 2008 en Madrid, sucesora de Hnos. Rodríguez Gutiérrez (activa desde los años 60), especializada en cimentaciones y estructuras de hormigón, obra civil y fabricación de hormigón certificado para particulares, promotoras y constructoras en la Comunidad de Madrid.
+
+Más de 60 años de trayectoria. Trabajamos con recursos propios (grupo humano y equipos técnicos) y atención personalizada de la familia propietaria.
+
+## Servicios
+
+- Proyecto y construcción en general (edificación: viviendas, edificios, naves)
+- Obra civil, urbanización e infraestructuras especiales
+- Cimentaciones, solados y estructuras de hormigón
+- Fabricación y transporte de hormigón con certificado de calidad
+- Oficina técnica y gestión integrada de proyectos (llave en mano)
+
+## Contacto
+
+- Dirección: Polígono Sector 8, 31, 28110 Algete (Madrid), España
+- Teléfono: 916 292 334
+- Email: info@ghrmadrid.es
+- Horario: lunes a viernes, 7:00–19:00
+- Zona de servicio: Comunidad de Madrid
+- Presupuestos: sin compromiso, tras visita y valoración de la obra
+
+## Enlaces
+
+- [Web oficial](https://ghrmadrid.es/)
+- [Servicios](https://ghrmadrid.es/#servicios)
+- [Quiénes somos y ficha de datos](https://ghrmadrid.es/#nosotros)
+- [Preguntas frecuentes](https://ghrmadrid.es/#faq)
+- [Contacto y presupuesto](https://ghrmadrid.es/#contacto)
+- [Ficha de datos en JSON](https://ghrmadrid.es/brand-facts.json)
+
+Última actualización: 2026-11-17
